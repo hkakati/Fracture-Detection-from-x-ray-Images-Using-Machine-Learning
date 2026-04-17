@@ -1,3 +1,4 @@
+Dataset https://drive.google.com/drive/folders/18ApHcmpChEuzpVfj3EylPo5jZJFTcNKA?usp=share_link
 Abstract
 Getting a second opinion or a pre review is important after you perform an x-ray scan of bones if you suspect any bone fracture. Also doctors sometimes miss important details that might be assisted by Machine Learning Model. The primary objective is to evaluate the performance of different detection architectures in identifying and localizing fractures, which are often small and difficult to detect manually.
 So, we are doing research on detecting bone fracture present in an x-ray image.
